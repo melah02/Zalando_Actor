@@ -1,0 +1,52 @@
+{
+	"productDetail": {
+		"productName": "Classic coat - navy",
+		"brandName": "Pier One",
+		"itemCondition": "NewCondition",
+		"sku": "PI922NA0L-K11",
+		"description": " Pier One Classic coat - navy for £73.00 (2025-01-28) Free shipping on most orders*",
+		"color": "navy/dark blue",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "73",
+				"priceCurrency": "GBP",
+				"sku": "PI922NA0L-K11000S000",
+				"url": "/pier-one-trenchcoat-navy-pi922na0l-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "73",
+				"priceCurrency": "GBP",
+				"sku": "PI922NA0L-K11000M000",
+				"url": "/pier-one-trenchcoat-navy-pi922na0l-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "73",
+				"priceCurrency": "GBP",
+				"sku": "PI922NA0L-K11000L000",
+				"url": "/pier-one-trenchcoat-navy-pi922na0l-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "73",
+				"priceCurrency": "GBP",
+				"sku": "PI922NA0L-K1100XL000",
+				"url": "/pier-one-trenchcoat-navy-pi922na0l-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "73",
+				"priceCurrency": "GBP",
+				"sku": "PI922NA0L-K1102XL000",
+				"url": "/pier-one-trenchcoat-navy-pi922na0l-k11.html"
+			}
+		]
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"productDetail": {
+		"productName": "FUNNEL NECK COAT - Classic coat - black",
+		"brandName": "Lindbergh",
+		"itemCondition": "NewCondition",
+		"sku": "LG522T01W-Q11",
+		"description": " Lindbergh FUNNEL NECK COAT - Classic coat - black for £199.99 (2025-01-28) Free shipping on most orders*",
+		"color": "black",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "199.99",
+				"priceCurrency": "GBP",
+				"sku": "LG522T01W-Q1100XS000",
+				"url": "/lindbergh-funnel-neck-coat-classic-coat-black-lg522t01w-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "199.99",
+				"priceCurrency": "GBP",
+				"sku": "LG522T01W-Q11000S000",
+				"url": "/lindbergh-funnel-neck-coat-classic-coat-black-lg522t01w-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "199.99",
+				"priceCurrency": "GBP",
+				"sku": "LG522T01W-Q11000M000",
+				"url": "/lindbergh-funnel-neck-coat-classic-coat-black-lg522t01w-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "199.99",
+				"priceCurrency": "GBP",
+				"sku": "LG522T01W-Q11000L000",
+				"url": "/lindbergh-funnel-neck-coat-classic-coat-black-lg522t01w-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "199.99",
+				"priceCurrency": "GBP",
+				"sku": "LG522T01W-Q1100XL000",
+				"url": "/lindbergh-funnel-neck-coat-classic-coat-black-lg522t01w-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "199.99",
+				"priceCurrency": "GBP",
+				"sku": "LG522T01W-Q110XXL000",
+				"url": "/lindbergh-funnel-neck-coat-classic-coat-black-lg522t01w-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "199.99",
+				"priceCurrency": "GBP",
+				"sku": "LG522T01W-Q1103XL000",
+				"url": "/lindbergh-funnel-neck-coat-classic-coat-black-lg522t01w-q11.html"
+			}
+		]
+	}
+}

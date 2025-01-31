@@ -1,0 +1,52 @@
+{
+	"productDetail": {
+		"productName": "SDMIGUEL - Classic coat - slate black",
+		"brandName": "Solid",
+		"itemCondition": "NewCondition",
+		"sku": "SO422T068-O11",
+		"description": " Solid SDMIGUEL - Classic coat - slate black for £109.99 (2025-01-28) Free shipping on most orders*",
+		"color": "slate black/brown",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "156.99",
+				"priceCurrency": "GBP",
+				"sku": "SO422T068-O11000S000",
+				"url": "/solid-classic-coat-slate-black-so422t068-o11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "156.99",
+				"priceCurrency": "GBP",
+				"sku": "SO422T068-O11000M000",
+				"url": "/solid-classic-coat-slate-black-so422t068-o11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "125.99",
+				"priceCurrency": "GBP",
+				"sku": "SO422T068-O11000L000",
+				"url": "/solid-classic-coat-slate-black-so422t068-o11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "125.99",
+				"priceCurrency": "GBP",
+				"sku": "SO422T068-O1100XL000",
+				"url": "/solid-classic-coat-slate-black-so422t068-o11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "109.99",
+				"priceCurrency": "GBP",
+				"sku": "SO422T068-O110XXL000",
+				"url": "/solid-classic-coat-slate-black-so422t068-o11.html"
+			}
+		]
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"id": "dd9BPNGHZ8UF3Jw",
+	"json": "{\"id\":\"dd9BPNGHZ8UF3Jw\",\"url\":\"https://www.zalando.co.uk/pier-one-classic-coat-black-pi922t00p-q11.html\",\"loadedUrl\":\"https://www.zalando.co.uk/pier-one-classic-coat-black-pi922t00p-q11.html\",\"uniqueKey\":\"https://www.zalando.co.uk/pier-one-classic-coat-black-pi922t00p-q11.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-01-28T12:34:29.073Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.zalando.co.uk/pier-one-classic-coat-black-pi922t00p-q11.html",
+	"url": "https://www.zalando.co.uk/pier-one-classic-coat-black-pi922t00p-q11.html"
+}

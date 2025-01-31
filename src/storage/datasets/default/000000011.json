@@ -1,0 +1,44 @@
+{
+	"productDetail": {
+		"productName": "COLOMBO  - Classic coat - black",
+		"brandName": "Won Hundred",
+		"itemCondition": "NewCondition",
+		"sku": "WO322T027-Q11",
+		"description": " Won Hundred COLOMBO  - Classic coat - black for £530.00 (2025-01-28) Free shipping on most orders*",
+		"color": "black",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "530",
+				"priceCurrency": "GBP",
+				"sku": "WO322T027-Q110046000",
+				"url": "/won-hundred-colombo-classic-coat-black-wo322t027-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "530",
+				"priceCurrency": "GBP",
+				"sku": "WO322T027-Q110048000",
+				"url": "/won-hundred-colombo-classic-coat-black-wo322t027-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "530",
+				"priceCurrency": "GBP",
+				"sku": "WO322T027-Q110050000",
+				"url": "/won-hundred-colombo-classic-coat-black-wo322t027-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "530",
+				"priceCurrency": "GBP",
+				"sku": "WO322T027-Q110054000",
+				"url": "/won-hundred-colombo-classic-coat-black-wo322t027-q11.html"
+			}
+		]
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"productDetail": {
+		"productName": "FQGUNNAR - Classic coat - coriander",
+		"brandName": "FQ1924",
+		"itemCondition": "NewCondition",
+		"sku": "FQ122T00R-B11",
+		"description": " FQ1924 FQGUNNAR - Classic coat - coriander for £79.99 (2025-01-28) Free shipping on most orders*",
+		"color": "coriander/taupe",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "161.99",
+				"priceCurrency": "GBP",
+				"sku": "FQ122T00R-B11000S000",
+				"url": "/fq1924-classic-coat-coriander-fq122t00r-b11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "161.99",
+				"priceCurrency": "GBP",
+				"sku": "FQ122T00R-B11000M000",
+				"url": "/fq1924-classic-coat-coriander-fq122t00r-b11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "161.99",
+				"priceCurrency": "GBP",
+				"sku": "FQ122T00R-B11000L000",
+				"url": "/fq1924-classic-coat-coriander-fq122t00r-b11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "161.99",
+				"priceCurrency": "GBP",
+				"sku": "FQ122T00R-B1100XL000",
+				"url": "/fq1924-classic-coat-coriander-fq122t00r-b11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "79.99",
+				"priceCurrency": "GBP",
+				"sku": "FQ122T00R-B110XXL000",
+				"url": "/fq1924-classic-coat-coriander-fq122t00r-b11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "161.99",
+				"priceCurrency": "GBP",
+				"sku": "FQ122T00R-B1103XL000",
+				"url": "/fq1924-classic-coat-coriander-fq122t00r-b11.html"
+			}
+		]
+	}
+}

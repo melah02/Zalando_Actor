@@ -1,0 +1,52 @@
+{
+	"productDetail": {
+		"productName": "Classic coat - dark grey",
+		"brandName": "Pier One",
+		"itemCondition": "NewCondition",
+		"sku": "PI922T05X-C11",
+		"description": " Pier One Classic coat - dark grey for £76.00 (2025-01-28) Free shipping on most orders*",
+		"color": "dark grey",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "76",
+				"priceCurrency": "GBP",
+				"sku": "PI922T05X-C11000S000",
+				"url": "/pier-one-classic-coat-dark-grey-pi922t05x-c11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "76",
+				"priceCurrency": "GBP",
+				"sku": "PI922T05X-C11000M000",
+				"url": "/pier-one-classic-coat-dark-grey-pi922t05x-c11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "76",
+				"priceCurrency": "GBP",
+				"sku": "PI922T05X-C11000L000",
+				"url": "/pier-one-classic-coat-dark-grey-pi922t05x-c11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "76",
+				"priceCurrency": "GBP",
+				"sku": "PI922T05X-C1100XL000",
+				"url": "/pier-one-classic-coat-dark-grey-pi922t05x-c11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "76",
+				"priceCurrency": "GBP",
+				"sku": "PI922T05X-C110XXL000",
+				"url": "/pier-one-classic-coat-dark-grey-pi922t05x-c11.html"
+			}
+		]
+	}
+}

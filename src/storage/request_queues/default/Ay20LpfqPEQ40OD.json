@@ -1,0 +1,9 @@
+{
+	"id": "Ay20LpfqPEQ40OD",
+	"json": "{\"id\":\"Ay20LpfqPEQ40OD\",\"url\":\"https://www.zalando.co.uk/mens-clothing-coats-wool-coats/?p=3\",\"loadedUrl\":\"https://www.zalando.co.uk/mens-clothing-coats-wool-coats/?p=3\",\"uniqueKey\":\"https://www.zalando.co.uk/mens-clothing-coats-wool-coats?p=3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"PAGE\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-01-28T12:38:06.565Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.zalando.co.uk/mens-clothing-coats-wool-coats?p=3",
+	"url": "https://www.zalando.co.uk/mens-clothing-coats-wool-coats/?p=3"
+}

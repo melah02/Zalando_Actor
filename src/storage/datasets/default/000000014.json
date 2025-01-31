@@ -1,0 +1,52 @@
+{
+	"productDetail": {
+		"productName": "UNISEX - Classic coat - dark grey",
+		"brandName": "Zign Studio",
+		"itemCondition": "NewCondition",
+		"sku": "ZI422T006-C11",
+		"description": " Zign Studio UNISEX - Classic coat - dark grey for £71.00 (2025-01-28) Free shipping on most orders*",
+		"color": "dark grey",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "71",
+				"priceCurrency": "GBP",
+				"sku": "ZI422T006-C11000S000",
+				"url": "/zign-studio-unisex-classic-coat-dark-grey-zi422t006-c11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "71",
+				"priceCurrency": "GBP",
+				"sku": "ZI422T006-C11000M000",
+				"url": "/zign-studio-unisex-classic-coat-dark-grey-zi422t006-c11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "71",
+				"priceCurrency": "GBP",
+				"sku": "ZI422T006-C11000L000",
+				"url": "/zign-studio-unisex-classic-coat-dark-grey-zi422t006-c11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "71",
+				"priceCurrency": "GBP",
+				"sku": "ZI422T006-C1100XL000",
+				"url": "/zign-studio-unisex-classic-coat-dark-grey-zi422t006-c11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "71",
+				"priceCurrency": "GBP",
+				"sku": "ZI422T006-C110XXL000",
+				"url": "/zign-studio-unisex-classic-coat-dark-grey-zi422t006-c11.html"
+			}
+		]
+	}
+}

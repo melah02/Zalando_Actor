@@ -1,0 +1,9 @@
+{
+	"id": "QVIDAhabpi29sI7",
+	"json": "{\"id\":\"QVIDAhabpi29sI7\",\"url\":\"https://www.zalando.co.uk/pier-one-classic-coat-dark-blue-pi922t05r-k11.html\",\"loadedUrl\":\"https://www.zalando.co.uk/pier-one-classic-coat-dark-blue-pi922t05r-k11.html\",\"uniqueKey\":\"https://www.zalando.co.uk/pier-one-classic-coat-dark-blue-pi922t05r-k11.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-01-28T12:35:11.861Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.zalando.co.uk/pier-one-classic-coat-dark-blue-pi922t05r-k11.html",
+	"url": "https://www.zalando.co.uk/pier-one-classic-coat-dark-blue-pi922t05r-k11.html"
+}

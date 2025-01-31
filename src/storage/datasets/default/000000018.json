@@ -1,0 +1,28 @@
+{
+	"productDetail": {
+		"productName": "WILD LEDA MONTGOMERY - Classic coat - indigo",
+		"brandName": "Roberto Cavalli",
+		"itemCondition": "NewCondition",
+		"sku": "1RO22T00F-K11",
+		"description": " Roberto Cavalli WILD LEDA MONTGOMERY - Classic coat - indigo for £9,500.00 (2025-01-28) Free shipping on most orders*",
+		"color": "indigo/blue",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "9500",
+				"priceCurrency": "GBP",
+				"sku": "1RO22T00F-K110048000",
+				"url": "/roberto-cavalli-wild-leda-montgomery-classic-coat-indigo-1ro22t00f-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/OutOfStock",
+				"price": "9500",
+				"priceCurrency": "GBP",
+				"sku": "1RO22T00F-K110052000",
+				"url": "/roberto-cavalli-wild-leda-montgomery-classic-coat-indigo-1ro22t00f-k11.html"
+			}
+		]
+	}
+}
