@@ -1,8 +1,8 @@
 {
 	"id": "QVvA0NpVADvd0zo",
-	"json": "{\"id\":\"QVvA0NpVADvd0zo\",\"url\":\"https://www.zalando.co.uk/indicode-jeans-brandan-classic-coat-black-ij022t03o-q12.html\",\"loadedUrl\":\"https://www.zalando.co.uk/indicode-jeans-brandan-classic-coat-black-ij022t03o-q12.html\",\"uniqueKey\":\"https://www.zalando.co.uk/indicode-jeans-brandan-classic-coat-black-ij022t03o-q12.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-01-28T12:34:11.872Z\"}",
+	"json": "{\"id\":\"QVvA0NpVADvd0zo\",\"url\":\"https://www.zalando.co.uk/indicode-jeans-brandan-classic-coat-black-ij022t03o-q12.html\",\"uniqueKey\":\"https://www.zalando.co.uk/indicode-jeans-brandan-classic-coat-black-ij022t03o-q12.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAILS\"}}",
 	"method": "GET",
-	"orderNo": null,
+	"orderNo": 1738331395695,
 	"retryCount": 0,
 	"uniqueKey": "https://www.zalando.co.uk/indicode-jeans-brandan-classic-coat-black-ij022t03o-q12.html",
 	"url": "https://www.zalando.co.uk/indicode-jeans-brandan-classic-coat-black-ij022t03o-q12.html"
