@@ -88,7 +88,7 @@ const crawler = new PuppeteerCrawler({
             })
             .map((item) => item.href);
         });
-
+        console.log(productLinks);
         for (const url of productLinks) {
           log.info(`Enqueuing ${url}`);
           await requestQueue.addRequest({

@@ -1,0 +1,52 @@
+{
+	"productDetail": {
+		"productName": "Classic coat - dark blue",
+		"brandName": "Pier One",
+		"itemCondition": "NewCondition",
+		"sku": "PI922T00P-K11",
+		"description": " Pier One Classic coat - dark blue for £56.00 (2025-02-09) Free shipping on most orders*",
+		"color": "dark blue",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "56",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-K11000S000",
+				"url": "/pier-one-classic-coat-dark-blue-pi922t00p-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "56",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-K11000M000",
+				"url": "/pier-one-classic-coat-dark-blue-pi922t00p-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "56",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-K11000L000",
+				"url": "/pier-one-classic-coat-dark-blue-pi922t00p-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "56",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-K1100XL000",
+				"url": "/pier-one-classic-coat-dark-blue-pi922t00p-k11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "56",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-K1102XL000",
+				"url": "/pier-one-classic-coat-dark-blue-pi922t00p-k11.html"
+			}
+		]
+	}
+}

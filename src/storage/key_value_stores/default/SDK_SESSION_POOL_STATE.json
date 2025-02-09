@@ -1,0 +1,224 @@
+{
+  "usableSessionsCount": 6,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_kGvdvLuSyC",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-02-09T23:35:06.705Z",
+      "createdAt": "2025-02-09T22:45:06.705Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_eECKNOscTg",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "language-preference",
+            "value": "en",
+            "expires": "2026-02-09T22:45:38.000Z",
+            "domain": "zalando.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.835Z",
+            "lastAccessed": "2025-02-09T22:45:46.835Z"
+          },
+          {
+            "key": "_abck",
+            "value": "8645D19584F8F8BB2B3164D181A14907~-1~YAAQ4YMQAoNRzt+UAQAAq9Lj7A2GkAbS1wIsyX5SWXLEuumnfttwra23+MK+ZQ52t2MPqix74RZKyU4FWsP1MuQYF3qQRcFDeroecmeGo0sep2cfYgWGu7PS28wCs2eKezwoRSb0Uds4agPT1BdUpFk+rDkUaWJf9qPzgRHmffX4K2CKgXcj1H0UT+6P9UEkSfxcEEG2w4YgZjaDm5X0L5PoLcNXPEfWv3ectPseE92HZ/996CYSnBBeeLOgmMweDa/smzLO8vdQ68ESBQaTzgzmoQ+bbOpEiMKun5jEpm0UoNP1qfkoMmR2pACdCj7RN3rA0byPe3ld4mQ4ZK++I1k+hrntD3o3nNR/eZ2f5k/sY+bBit8R6pAT1LDJjvs7B0viB0tfl52HF/ODt9SR4DpdqoT+rEDlKyyBFaVRF8xAQu+vtL4q4BcXpFOj5J2IiaByN17zjhI2IGTZc1pYA4vs0d2A0wmBa7hqJ6yUOIhUpU79ilKk5aCA+aAtpxc+ePMXp/A4CQIg8KuuAf1IY2HjoWk=~-1~||0||~-1",
+            "expires": "2026-02-09T22:45:37.786Z",
+            "domain": "zalando.co.uk",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.848Z",
+            "lastAccessed": "2025-02-09T22:45:46.848Z"
+          },
+          {
+            "key": "ak_bmsc",
+            "value": "DBD737AACB0AA326EB824D711DEF63E4~000000000000000000000000000000~YAAQ4YMQAltRzt+UAQAAFNHj7BpGAa5+lg3nr280qfN4dv/dqybSO7Lrc0Y8RYflO1OY3cTNzLsI/vPk+QfjUOtboPrXqzpGUyjqOevDI6Z7C8v9sMz6sIwi8w06Cf3GV1xVqrHB8We46cvW6LpglXyxvi865KVnbtiEqPuYrJpaKd6cLIveirEBlivwubzXPwwxVh8zpZJNgo6bxTUggT+j0Po9RRdRuQd4+oNPQkoeqp2GYWcdE53gPNEzwvF7NR9PzKcfjomcu53VLvrCm+E2ifENhp4hEXFy0nhf4ueFxM2FAh4/p3yIPy48qpXkONWiKOeukK7OiGjLlnl8TUXNS1BAlHZ/pBjDv24i75IQ00UVG8YZNyKOUoNR+w0uht6BwhbGJi/ozaIv7Ap97CziTAw7s2WajakKyBcPvk1CId5N90ybl4ywzdHJqe/o412nuw==",
+            "expires": "2025-02-10T00:45:31.773Z",
+            "domain": "zalando.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.853Z",
+            "lastAccessed": "2025-02-09T22:45:46.853Z"
+          },
+          {
+            "key": "ncx",
+            "value": "m",
+            "expires": "2026-02-09T22:45:34.000Z",
+            "domain": "zalando.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.853Z",
+            "lastAccessed": "2025-02-09T22:45:46.853Z"
+          },
+          {
+            "key": "Zalando-Client-Id",
+            "value": "829ab49f-a719-4b9f-84d3-2d631258b769",
+            "expires": "2026-03-16T22:45:46.669Z",
+            "domain": "zalando.co.uk",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.854Z",
+            "lastAccessed": "2025-02-09T22:45:46.854Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "27879A869BB7DD5CD3DEF46531D0D9BC~YAAQ4YMQAulOzt+UAQAAHrrj7Bp+DrK9nr5Idj9oB+Jdm/bBry017Hp6dirwDyJWsGc7TVM0XE9c9UYVxjJoAq4Ty41XuZ2CBy5W69qxXyiwZmMODflkYAZFIfjh/+E7SLlemmuPstX0xi7KtL1Ww1vV6aGSu4dQTDyPcoSpJzsY1T4hG1RvDSxT46remYKWdErccVqZNZKEub7ZLmUPPCTVbY5JzKJl5X3ch3J3mE/ahs+w5xfTcHd90u+7Ph1+MZHyBTWHMUjso+qfdfRagoIiSVIbW6AYQj995vHRGNCfx1UrwyPamg4Ls2UmI/FXy+wgyX3cVXUC0z1SfzMSVrC/GCTI1dfWM/BW8onW45Dfu2MP9anqiI8EcoHmxedCWrg5ibeAEJxh0oilqOysFcs4klZKBT6niyEq2MpHRxrl~3556147~4343106",
+            "expires": "2025-02-10T02:45:31.473Z",
+            "domain": "zalando.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.854Z",
+            "lastAccessed": "2025-02-09T22:45:46.854Z"
+          },
+          {
+            "key": "mpulseinject",
+            "value": "true",
+            "expires": "2025-02-09T23:45:31.472Z",
+            "domain": "www.zalando.co.uk",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.854Z",
+            "lastAccessed": "2025-02-09T22:45:46.854Z"
+          },
+          {
+            "key": "zcid",
+            "value": "AAAAAO27ArwUrFMFgCz4yY7q6eMJjmJAJa1BDVYksCNF5XTlMsCGwxdoD8pf0u3NTS2eiZ3XoFbtEqMfGyJDoq4zEurOkip3COGmUWUSldpx",
+            "expires": "2026-03-16T22:45:46.669Z",
+            "domain": "zalando.co.uk",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.855Z",
+            "lastAccessed": "2025-02-09T22:45:46.855Z"
+          },
+          {
+            "key": "frsx",
+            "value": "AAAAAKiEXl_dZg1kWnLeFm5j7g8HMpXcZ4EaxFlnmptNn0AOsSP-GwuIOACqpHu0abt772WT-SLfkn4leRfZOuOE_86MLRNazsEesNZjEndcdWxIYRpMUtwmI4E7jdZg_eCOKYFHIQpnOLlnFT1Ztn4=",
+            "expires": "2025-02-09T23:45:31.472Z",
+            "domain": "zalando.co.uk",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-02-09T22:45:46.855Z",
+            "lastAccessed": "2025-02-09T22:45:46.855Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-02-09T23:35:06.719Z",
+      "createdAt": "2025-02-09T22:45:06.719Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_5I4b6edPKs",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-02-09T23:35:47.794Z",
+      "createdAt": "2025-02-09T22:45:47.794Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_3pTo2dYn8f",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-02-09T23:35:47.797Z",
+      "createdAt": "2025-02-09T22:45:47.797Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_bdjHLbe0YA",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-02-09T23:35:47.816Z",
+      "createdAt": "2025-02-09T22:45:47.816Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ktxiZxhJvh",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-02-09T23:35:47.820Z",
+      "createdAt": "2025-02-09T22:45:47.820Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

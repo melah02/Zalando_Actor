@@ -1,0 +1,52 @@
+{
+	"productDetail": {
+		"productName": "Classic coat - black",
+		"brandName": "Pier One",
+		"itemCondition": "NewCondition",
+		"sku": "PI922T00P-Q11",
+		"description": " Pier One Classic coat - black for £74.99 (2025-02-09) Free shipping on most orders*",
+		"color": "black",
+		"offers": [
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "74.99",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-Q11000S000",
+				"url": "/pier-one-classic-coat-black-pi922t00p-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "74.99",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-Q11000M000",
+				"url": "/pier-one-classic-coat-black-pi922t00p-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "74.99",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-Q11000L000",
+				"url": "/pier-one-classic-coat-black-pi922t00p-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "74.99",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-Q1100XL000",
+				"url": "/pier-one-classic-coat-black-pi922t00p-q11.html"
+			},
+			{
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "74.99",
+				"priceCurrency": "GBP",
+				"sku": "PI922T00P-Q1102XL000",
+				"url": "/pier-one-classic-coat-black-pi922t00p-q11.html"
+			}
+		]
+	}
+}
